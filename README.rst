@@ -34,9 +34,9 @@ To create the environment use these commands:
 
 
 ```
-conda create env
-conda activate amplicons
-jupyter notebook
+    conda create env
+    conda activate amplicons
+    jupyter notebook
 ```
 
 Please report problems in reproducibility in the github issues section!
