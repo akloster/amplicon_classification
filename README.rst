@@ -13,11 +13,11 @@ Read the Notebooks
 To read the notebooks use the following links:
 
 * Gathers and explains the metadata:
-  * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_metadata.ipynb
+    * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_metadata.ipynb
 * Prepares the data for the NN library:
-  * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_datasets.ipynb
+    * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_datasets.ipynb
 * Trains classifiers on the data:
-	* https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_classification.ipynb
+	  * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_classification.ipynb
 
 Run it yourself
 ---------------
