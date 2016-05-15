@@ -32,12 +32,11 @@ If you want to run the notebooks yourself, you will need to download these files
 
 To create the environment use these commands:
 
-
-```
-    conda create env
-    conda activate amplicons
-    jupyter notebook
-```
+	conda create env
+	
+	conda activate amplicons
+	
+	jupyter notebook
 
 Please report problems in reproducibility in the github issues section!
 
