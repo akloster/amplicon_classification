@@ -12,9 +12,12 @@ Read the Notebooks
 
 To read the notebooks use the following links:
 
-* Gathers and explains the metadata
+* Gathers and explains the metadata:
+  * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_metadata.ipynb
 * Prepares the data for the NN library
+  * https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_datasets.ipynb
 * Trains classifiers on the data
+	* https://github.com/akloster/amplicon_classification/blob/master/notebooks/amplicon_classification.ipynb<Paste>
 
 Run it yourself
 ---------------
@@ -29,11 +32,11 @@ If you want to run the notebooks yourself, you will need to download these files
 
 To create the environment use these commands:
 
-
+```
     > conda create env
     > conda activate amplicons
     > jupyter notebook
-
+```
 
 Please report problems in reproducibility in the github issues section!
 
