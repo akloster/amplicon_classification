@@ -1,0 +1,11 @@
+name: amplicons
+dependencies:
+  - anaconda
+  - jupyter
+  - seaborn
+  - pip:
+    - git+https://github.com/akloster/porekit-python.git
+    - feather-format
+    - pysam
+    - keras
+
