@@ -1,6 +1,6 @@
 ===============================
 Pre-Basecall Amplicon Classification from Nanopore Reads
-G===============================
+===============================
 
 This is a demonstration/tutorial about classifying raw nanopore event data with neural networks. The three notebooks explain how to prepare the data and train the networks.
 
